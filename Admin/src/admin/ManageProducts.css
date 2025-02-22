@@ -1,0 +1,36 @@
+.manage-products {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .product-form {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+  }
+  
+  .product-form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .manage-products ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .manage-products li {
+    background: #ff4500;
+    color: white;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .manage-products button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  

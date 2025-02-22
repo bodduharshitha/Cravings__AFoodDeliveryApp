@@ -1,0 +1,25 @@
+.admin-dashboard {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .dashboard-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .dashboard-card {
+    padding: 20px;
+    background: #ff4500;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    transition: transform 0.3s ease;
+  }
+  
+  .dashboard-card:hover {
+    transform: scale(1.05);
+  }
+  

@@ -1,0 +1,40 @@
+.home-container {
+  background: whitesmoke;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.logo a {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 24px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.logo a:hover {
+  text-decoration: none;
+}
+
+.navbar {
+  background-color: #ff5722; /* Same as user panel */
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: 15px;
+}
+
+.navbar a:hover {
+  opacity: 0.8;
+}

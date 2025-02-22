@@ -1,0 +1,36 @@
+.manage-restaurants {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .restaurant-form {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+  }
+  
+  .restaurant-form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .manage-restaurants ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .manage-restaurants li {
+    background: #ff4500;
+    color: white;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .manage-restaurants button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  

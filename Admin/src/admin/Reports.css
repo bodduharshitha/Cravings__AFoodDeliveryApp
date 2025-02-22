@@ -1,0 +1,54 @@
+.reports {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .reports h2 {
+    margin-bottom: 1.5rem;
+  }
+  
+  .report-cards {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+  }
+  
+  .report-card {
+    background: white;
+    padding: 1.5rem;
+    width: 250px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .report-icon {
+    font-size: 2.5rem;
+  }
+  
+  .sales-icon {
+    color: #28a745;
+  }
+  
+  .orders-icon {
+    color: #007bff;
+  }
+  
+  .users-icon {
+    color: #dc3545;
+  }
+  
+  .report-info h3 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  .report-info p {
+    margin: 5px 0 0;
+    font-size: 1rem;
+    color: gray;
+  }
+  
