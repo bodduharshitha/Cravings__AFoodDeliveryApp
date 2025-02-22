@@ -1,0 +1,40 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f8f8f8;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background: #ff5733;
+  padding: 1rem 2rem;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem;
+}
+
+.btn {
+  background-color: black;
+  color: #ff5733;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+}
+
+.hero, h2 {
+  text-align: center;
+  padding: 3rem;
+}
+
+.hero-img {
+  width: 100%;
+  max-width: 1000px;
+}
+
+.restaurant-card img {
+  width: 100%;
+  border-radius: 10px;
+}
