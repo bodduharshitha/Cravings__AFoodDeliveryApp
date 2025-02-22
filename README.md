@@ -13,12 +13,14 @@ Cravings is a **MERN Stack based food delivery platform** with separate **User**
 ✅ Add Items to Cart  
 ✅ User Authentication (Login/Signup)  
 ✅ Order Management  
+View User panel here: https://drive.google.com/file/d/1oDOxLvnlE76EQcyJd9yb1bO4rjvWSIvx/view?usp=sharing
 
 ### 🔧 Admin Panel  
 ✅ Manage Restaurants & Products  
 ✅ View & Manage Orders  
 ✅ User Management  
 ✅ Admin Authentication  
+View Admin Panel here: https://drive.google.com/file/d/1dGbCgGhqtnF-hULarA-MdCq0fpwODI4w/view?usp=sharing
 
 ## 🛠️ Tech Stack  
 - React.js  
