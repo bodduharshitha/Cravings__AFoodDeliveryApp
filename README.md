@@ -25,6 +25,9 @@ View Admin Panel here: https://drive.google.com/file/d/1dGbCgGhqtnF-hULarA-MdCq0
 ## 🛠️ Tech Stack  
 - React.js  
 - React Router  
-- CSS  
+- CSS
+- Node.js
+- Express.js
+- MongoDB
 
-This project is part of React Week 1 Submission for the EY GDS AICTE Internship Program by Edunet Foundation.
+This project is part of EY GDS AICTE Internship Program by Edunet Foundation.
